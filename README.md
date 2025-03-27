@@ -23,7 +23,7 @@ Highest selling category?
 
 Percentage of Total Orders delivered
 
-Dashboard Interaction View Dashboard
+Dashboard Interaction <a href="https://github.com/Sourav-311/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">View Dashboard</a>
 
 Process
 Verify data for any missing values and anomalies, and sort out the same.
